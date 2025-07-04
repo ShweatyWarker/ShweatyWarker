@@ -5,11 +5,16 @@
 
 ## 💻 About Me
 
-const developer = {
+Developing Developer = {
+
   name: "Nicholas Gibson",
+  
   location: "Canada 🇨🇦",
+  
   current_focus: ["Honing HTML", "Vanquishing VSCode", "Grappling Git & GitHub Basics"],
+  
   future_goals: ["Bragging about clunky apps I made", "Being committed to committing", "Branching out.."],
+  
   hobbies: ["Messing around on GitHub", "Educational content on anything really, than finding ways to apply it with Dev tools", "Drinking more coffee than I should ☕️"],
 };
 
