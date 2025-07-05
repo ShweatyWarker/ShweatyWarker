@@ -11,12 +11,11 @@ The Developing Developer
   
   Located in Canada 🇨🇦
   
-  Current Goals: ["Honing HTML", "Vanquishing VSCode", "Grappling Git & GitHub Basics"],
+  Current Goals: Honing HTML, Vanquishing VSCode, Grappling Git & GitHub Basics
   
-  Future Goals: ["Bragging about clunky apps I made", "Being committed to committing", "Branching out.."],
+  Future Goals: Bragging about clunky apps I made, Being committed to committing, Branching out..
   
-  Hobbies: [Messing around on GitHub, Educational content on anything really, than finding ways to apply it with Dev tools, Drinking more coffee than I should ☕️],
-};
+  Hobbies: Messing around on GitHub, Educational content on anything really, than finding ways to apply it with Dev tools, Drinking more coffee than I should ☕️
 
 🧠 Currently Learning
 	•	✅ HTML5 & Semantic Structure
