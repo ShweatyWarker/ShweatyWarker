@@ -35,3 +35,10 @@ The Developing Developer
 	•	📧 Email:nicholas.gibson@triosstudent.com
 	•	🛠 Portfolio: In progress
 	•	🧠 Currently studying and working on becoming job-ready
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShweatyWarker&show_icons=true&theme=radical&hide=issues&count_private=true" alt="ShweatyWarker's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShweatyWarker&layout=compact&theme=radical" alt="Top Languages" height="165" />
+</p>
