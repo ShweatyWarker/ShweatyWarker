@@ -5,17 +5,17 @@
 
 ## 💻 About Me
 
-Developing Developer = {
+Nicholas Gibson
 
-  name: "Nicholas Gibson",
+The Developing Developer
   
-  location: "Canada 🇨🇦",
+  Located in Canada 🇨🇦
   
-  current_focus: ["Honing HTML", "Vanquishing VSCode", "Grappling Git & GitHub Basics"],
+  Current Goals: ["Honing HTML", "Vanquishing VSCode", "Grappling Git & GitHub Basics"],
   
-  future_goals: ["Bragging about clunky apps I made", "Being committed to committing", "Branching out.."],
+  Future Goals: ["Bragging about clunky apps I made", "Being committed to committing", "Branching out.."],
   
-  hobbies: ["Messing around on GitHub", "Educational content on anything really, than finding ways to apply it with Dev tools", "Drinking more coffee than I should ☕️"],
+  Hobbies: [Messing around on GitHub, Educational content on anything really, than finding ways to apply it with Dev tools, Drinking more coffee than I should ☕️],
 };
 
 🧠 Currently Learning
@@ -25,7 +25,7 @@ Developing Developer = {
 	•	📂 Git / GitHub workflows
 	•	🛠 Visual Studio Code
 
- 🚀 My Goals
+ 🚀 Checklist Before Lift Off
 	•	Create awesome beginner-friendly open source projects
 	•	Launch my first portfolio website
 	•	Learn one language really well (starting with JavaScript)
